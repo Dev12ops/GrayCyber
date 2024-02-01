@@ -1,0 +1,285 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WordPress.com - Themes - Spiel\n"
+"Report-Msgid-Bugs-To: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2023-12-18T04:13:30+00:00\n"
+"PO-Revision-Date: 2023-12-17 22:47:30+0000\n"
+"Language: ro\n"
+"Plural-Forms: nplurals=3; plural=(n==1 ? 0 : (n==0 || (n%100 > 0 && n%100 < 20)) ? 1 : 2);\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Double Extra Large"
+msgstr "Foarte mare dublu"
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Triple Extra Large"
+msgstr "Foarte mare triplu"
+
+#: theme.json
+msgctxt "Template part name"
+msgid "Comments"
+msgstr "Comentarii"
+
+#: theme.json
+msgctxt "Template part name"
+msgid "Header"
+msgstr "Antet"
+
+#: theme.json
+msgctxt "Template part name"
+msgid "Footer"
+msgstr "Subsol"
+
+#: theme.json
+msgctxt "Template part name"
+msgid "Sidebar"
+msgstr "Bară laterală"
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Large"
+msgstr "Mare"
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Extra Large"
+msgstr "Foarte mare"
+
+#: theme.json
+msgctxt "Space size name"
+msgid "1"
+msgstr "1"
+
+#: theme.json
+msgctxt "Space size name"
+msgid "2"
+msgstr "2"
+
+#: theme.json
+msgctxt "Space size name"
+msgid "3"
+msgstr "3"
+
+#: theme.json
+msgctxt "Space size name"
+msgid "4"
+msgstr "4"
+
+#: theme.json
+msgctxt "Space size name"
+msgid "5"
+msgstr "5"
+
+#: theme.json
+msgctxt "Space size name"
+msgid "6"
+msgstr "6"
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Extra Small"
+msgstr "Foarte mic"
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Small"
+msgstr "Mic"
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Medium"
+msgstr "Mediu"
+
+#: patterns/sidebar.php:52
+msgid "Recent Posts"
+msgstr "Articole recente"
+
+#: theme.json
+msgctxt "Color name"
+msgid "Base"
+msgstr "Bază"
+
+#: theme.json
+msgctxt "Color name"
+msgid "Contrast"
+msgstr "Contrast"
+
+#: theme.json
+msgctxt "Color name"
+msgid "Primary"
+msgstr "Principală"
+
+#: theme.json
+msgctxt "Color name"
+msgid "Secondary"
+msgstr "Secundară"
+
+#: theme.json
+msgctxt "Color name"
+msgid "Tertiary"
+msgstr "Terță"
+
+#: patterns/no-results-content.php
+msgctxt "Pattern title"
+msgid "No Results Content"
+msgstr "Nu am găsit conținut"
+
+#: patterns/no-results-content.php:12
+msgctxt "Message explaining that there are no results returned from a search"
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr "Regret, dar nu s-a potrivit nimic cu termenii tăi de căutare. Te rog încearcă din nou cu alte cuvinte cheie."
+
+#: patterns/search.php
+msgctxt "Pattern title"
+msgid "Search"
+msgstr "Caută"
+
+#: patterns/search.php:11
+msgctxt "This is a placeholder text in a search field"
+msgid "Search..."
+msgstr "Căutare..."
+
+#: patterns/sidebar.php
+msgctxt "Pattern title"
+msgid "Sidebar"
+msgstr "Bară laterală"
+
+#: patterns/sidebar.php:18
+msgid "Author"
+msgstr "Autor"
+
+#: patterns/sidebar.php:30
+msgid "Written by"
+msgstr "Scris de"
+
+#: patterns/category-links.php:52
+msgid "Staff Picks"
+msgstr "Selecția noastră"
+
+#: patterns/category-links.php:60
+msgid "Podcast"
+msgstr "Podcast"
+
+#: patterns/featured-posts.php:16
+msgid "Trending"
+msgstr "Tendințe"
+
+#: patterns/footer.php
+msgctxt "Pattern title"
+msgid "Default footer"
+msgstr "Subsol implicit"
+
+#: patterns/footer.php:21
+msgid "Subscribe to our newsletters. We’ll keep you in the loop."
+msgstr "Abonează-te la buletinele noastre de știri. Te vom ține la curent cu noutățile."
+
+#: patterns/footer.php:47
+msgid "https://wordpress.org"
+msgstr "https://wordpress.org"
+
+#. Translators: WordPress link.
+#: patterns/footer.php:50
+msgid "Designed with %1$s"
+msgstr "Proiectat cu %1$s"
+
+#: patterns/header.php
+msgctxt "Pattern title"
+msgid "Default header"
+msgstr "Antet implicit"
+
+#: patterns/latest-posts.php
+msgctxt "Pattern title"
+msgid "Latest Posts"
+msgstr "Ultimele articole"
+
+#: patterns/latest-posts.php:16
+msgid "Latest"
+msgstr "Ultimele"
+
+#: patterns/featured-posts.php
+msgctxt "Pattern title"
+msgid "Trending Posts"
+msgstr "Articole populare"
+
+#: patterns/category-links.php:56
+msgid "Game Culture"
+msgstr "Cultura jocurilor"
+
+#: patterns/category-links.php:44
+msgid "Reader"
+msgstr "Cititor"
+
+#: patterns/category-links.php:48
+msgid "Features"
+msgstr "Funcționalități"
+
+#: patterns/category-links.php:28
+msgid "News"
+msgstr "Știri"
+
+#: patterns/category-links.php:32
+msgid "Guides"
+msgstr "Ghizi"
+
+#: patterns/category-links.php:36
+msgid "Deals"
+msgstr "Oferte"
+
+#: patterns/category-links.php:40
+msgid "Videos"
+msgstr "Video-uri"
+
+#: patterns/category-links.php
+msgctxt "Pattern title"
+msgid "Category Links"
+msgstr "Legături la categorii"
+
+#: patterns/category-links.php:16
+#: patterns/sidebar.php:90
+msgid "Categories"
+msgstr "Categorii"
+
+#: patterns/category-links.php:24
+msgid "Reviews"
+msgstr "Recenzii"
+
+#. Author URI of the theme
+msgid "https://automattic.com/"
+msgstr "https://automattic.com"
+
+#: patterns/404.php
+msgctxt "Pattern title"
+msgid "A 404 page"
+msgstr "O pagină 404"
+
+#: patterns/404.php:12
+msgid "Oops! That page can’t be found."
+msgstr "Hopa! Acea pagină nu poate fi găsită."
+
+#: patterns/404.php:16
+msgid "It looks like nothing was found at this location. Maybe try a search?"
+msgstr "Se pare că nu am găsit nimic la această locație. Încerci o nouă căutare?"
+
+#. Author of the theme
+msgid "Automattic"
+msgstr "Automattic"
+
+#. Description of the theme
+msgid "Spiel is a game magazine theme."
+msgstr "Spiel este o temă gen revistă pentru jocuri."
+
+#. Theme URI of the theme
+msgid "https://wordpress.com/theme/spiel"
+msgstr "https://wordpress.com/theme/spiel"
+
+#. Theme Name of the theme
+msgid "Spiel"
+msgstr "Spiel"
